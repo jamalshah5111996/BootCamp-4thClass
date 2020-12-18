@@ -6,7 +6,7 @@ function App() {
   return (
 <div className="firstDiv">
     <hr/>
-    <Dinner libName="React." Learn="Components," Learn1="Props." Code="coding."/>
+    <Dinner libName="React," Learn="Components," Learn1="Props," Code="Coding." />
     <hr/>
     </div>
   );
